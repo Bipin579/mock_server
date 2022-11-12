@@ -1,23 +1,22 @@
 {
 
+      "new":[],
+      "cart":[],
       "user":[
         {
           "id": "jdsgjbjjvfvndd",
           "email": "bipin@gmail.com",
           "password":123,
-          "cart": []
         },
         {
           "id": "jdsgjbjjvfvnddjbgj",
           "email": "suraj@gmail.com",
           "password":123,
-          "cart": []
         },
         {
           "id": "jdsgjbjjvfvnddvbg",
           "email": "hemant@gmail.com",
           "password":123,
-          "cart": []
         }
       ],
       "product":[
